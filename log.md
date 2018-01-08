@@ -10,3 +10,11 @@
 **Link to work:** https://www.freecodecamp.org/challenges/use-rgb-to-mix-colors
 
 
+
+### Day 1: January 7, 2018
+
+**Today's Progress**: Completed some Responsive Design with Bootstrap and Basic jQuery at www.freecodecamp.org
+
+**Thoughts:** One step at a time :)
+
+**Link to work:** https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page
