@@ -9,3 +9,6 @@ Completed HTML5 & CSS section of Front End Development Track at www.freecodecamp
 
 ### R1D2
 Completed some Responsive Design with Bootstrap and Basic jQuery at www.freecodecamp.org
+
+### R1D3 
+Working on my first practice project. About 70% complete. Tribute Page https://codepen.io/jxiarchitect/full/BJJNKj
