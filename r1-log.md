@@ -12,3 +12,6 @@ Completed some Responsive Design with Bootstrap and Basic jQuery at www.freecode
 
 ### R1D3 
 Working on my first practice project. About 70% complete. Tribute Page https://codepen.io/jxiarchitect/full/BJJNKj
+
+### R1D4
+First Project complete and in the books! Tribute Page https://codepen.io/jxiarchitect/full/BJJNKj
