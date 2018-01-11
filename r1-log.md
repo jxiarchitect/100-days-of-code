@@ -15,3 +15,6 @@ Working on my first practice project. About 70% complete. Tribute Page https://c
 
 ### R1D4
 First Project complete and in the books! Tribute Page https://codepen.io/jxiarchitect/full/BJJNKj
+
+### R1D5
+Digging into Bootstrap 4 documentation--laying out the html and CSS structure for Personal Portfolio Page Project https://codepen.io/jxiarchitect/pen/ZvxdOv
