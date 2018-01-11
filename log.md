@@ -36,3 +36,11 @@
 **Thoughts:**  Any and all new habits are challenging at first. Approached today with a clear understanding of the exact edits I wanted to complete and worked through them sequentially and systematically. Reviewed the response of my column widths on both the Desktop and Mobile and I am happy with the outcome. Looking forward to beginning my next project via FreeCodeCamp :)
 
 **Link to work:** Tribute Page https://codepen.io/jxiarchitect/full/BJJNKj
+
+### Day 5: January 10, 2018
+
+**Today's Progress**: Digging into Bootstrap 4 documentation--laying out the html and CSS structure for Personal Portfolio Page Project 
+
+**Thoughts**: Lots of reading and re-reading of documentation. All part of the process. Patience and consistency is key. Marathon not a sprint. 
+
+**Link to work**: https://codepen.io/jxiarchitect/pen/ZvxdOv
