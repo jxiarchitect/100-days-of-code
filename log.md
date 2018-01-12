@@ -49,4 +49,6 @@
 
 **Today's Progress**: Today I took a break from tbe Web Portfolio project - practicing Basic JavaScript with www.freecodecamp.org
 
+**Thought**: Enjoying JavaScript - steady and smooth.
+
 **Link to work**: https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-first-character-in-a-string
