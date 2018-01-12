@@ -44,3 +44,9 @@
 **Thoughts**: Lots of reading and re-reading of documentation. All part of the process. Patience and consistency is key. Marathon not a sprint. 
 
 **Link to work**: https://codepen.io/jxiarchitect/pen/ZvxdOv
+
+### Day 6: January 11, 2018
+
+**Today's Progress**: Today I took a break from tbe Web Portfolio project - practicing Basic JavaScript with www.freecodecamp.org
+
+**Link to work**: https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-first-character-in-a-string
