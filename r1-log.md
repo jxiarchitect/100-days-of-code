@@ -18,3 +18,6 @@ First Project complete and in the books! Tribute Page https://codepen.io/jxiarch
 
 ### R1D5
 Digging into Bootstrap 4 documentation--laying out the html and CSS structure for Personal Portfolio Page Project https://codepen.io/jxiarchitect/pen/ZvxdOv
+
+### R1D6
+Break from Web Portfolio project - practicing Basic JavaScript with www.freecodecamp.org
