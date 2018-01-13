@@ -21,3 +21,6 @@ Digging into Bootstrap 4 documentation--laying out the html and CSS structure fo
 
 ### R1D6
 Break from Web Portfolio project - practicing Basic JavaScript with www.freecodecamp.org
+
+### R1D7
+More JavaScript practice with www.freecodecamp.org 
