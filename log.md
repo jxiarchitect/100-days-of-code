@@ -52,3 +52,11 @@
 **Thoughts**: Enjoying JavaScript - steady and smooth.
 
 **Link to work**: https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-first-character-in-a-string
+
+### Day 7: January 12, 2018
+
+**Today's Progress**: More JavaScript practice!
+
+**Thoughts**: Focusing on grasping the logic + concept as I know these are the fundamental building blocks
+
+**Link to work**: https://www.freecodecamp.org/challenges/stand-in-line
