@@ -60,3 +60,19 @@
 **Thoughts**: Focusing on grasping the logic + concept as I know these are the fundamental building blocks
 
 **Link to work**: https://www.freecodecamp.org/challenges/stand-in-line
+
+## Day 8: January 13, 2018
+
+**Today's Progress**: Long night of JavaScript....almost there
+
+**Thoughts**: Reminding myself to take my time to grasp the concepts..
+
+**Link to work**: https://www.freecodecamp.org/
+
+## Day 9: January 14, 2018
+
+**Today's Progress**: Mini-milestone - Completed all the JS exercises via FreeCodeCamp - will be back on HTML/CSS projects tomorrow :)
+
+**Thoughts**: Challenging to remain engaged but I pulled through. :)
+
+**Link to work**: https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables
