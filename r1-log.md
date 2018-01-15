@@ -24,3 +24,9 @@ Break from Web Portfolio project - practicing Basic JavaScript with www.freecode
 
 ### R1D7
 More JavaScript practice with www.freecodecamp.org 
+
+### R1D8
+Almost through with the CodeCamp JS exercises.
+
+### R1D9
+Completed all the JavaScript exercises with FreeCodeCamp!!! :) 
