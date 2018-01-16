@@ -30,3 +30,6 @@ Almost through with the CodeCamp JS exercises.
 
 ### R1D9
 Completed all the JavaScript exercises with FreeCodeCamp!!! :) 
+
+## R1D10
+Completed all the Objected Oriented and Functional Programming exercises with FreeCodeCamp :) 
