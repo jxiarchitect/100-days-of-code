@@ -76,3 +76,11 @@
 **Thoughts**: Challenging to remain engaged but I pulled through. :)
 
 **Link to work**: https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables
+
+## Day 10: Janaury 15, 2018
+
+**Today's Progress**: 10 days in the books! Completed all exercises in Objected Oriented and Functional Programming (FCC)
+
+**Thoughts**: Important to now recap on all I have learned and dig into documentation on HTML, CSS and JS :)
+
+**Link to work**: https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges
