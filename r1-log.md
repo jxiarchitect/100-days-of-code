@@ -33,3 +33,18 @@ Completed all the JavaScript exercises with FreeCodeCamp!!! :)
 
 ## R1D10
 Completed all the Objected Oriented and Functional Programming exercises with FreeCodeCamp :) 
+
+## R1D11
+ Installation and expermentation of Local Text Editor VS Code
+
+## R1D12
+Sign Ups and Form Validation in HTML & CSS
+
+## R1D13
+Re-visit of HTML structure for my Personal Portfolio, digging into VS Code Text Editor documentation, more reading through of BootStrap documentation and CSS experimenting
+
+## R1D14
+Working through CSS section of Web Developer Bootcamp from Colt Steele
+
+## R1D15
+Working through Popular CSS Selectors, coded template for Tic Tac Toe game using box model.
