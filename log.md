@@ -84,3 +84,47 @@
 **Thoughts**: Important to now recap on all I have learned and dig into documentation on HTML, CSS and JS :)
 
 **Link to work**: https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges
+
+## Day 11: Janaury 16, 2018
+
+**Today's Progress**: Installation and expermentation of Local Text Editor VS Code
+
+**Thoughts**:
+
+**Link to work**:
+
+
+## Day 12: Janaury 17, 2018
+
+**Today's Progress**: Form Validation in HTML & CSS
+
+**Thoughts**:
+
+**Link to work**:
+
+
+## Day 13: Janaury 18, 2018
+
+**Today's Progress**: Re-visit of HTML structure for my Personal Portfolio, digging into VS Code Text Editor documentation, more reading through of BootStrap documentation and  CSS experimenting
+**Thoughts**:
+
+**Link to work**:
+
+
+## Day 14: Janaury 19, 2018
+
+**Today's Progress**: Working through CSS section of Web Developer Bootcamp from Colt Steele
+
+**Thoughts**: Had to push through after long day of travel
+
+**Link to work**: (will upload from Local Text editor)
+
+
+## Day 15: Janaury 20, 2018
+
+**Today's Progress**: Working through Popular CSS Selectors, coded template for Tic Tac Toe game using box model.
+
+**Thoughts**: Progressed smoothly today, focusing on reviewing fundamentals of HTML, CSS, JS before moving on to more algorithm work
+
+**Link to work**: (will upload from Local Text editor)
+
