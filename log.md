@@ -128,3 +128,11 @@
 
 **Link to work**: (will upload from Local Text editor)
 
+## Day 16: January, 21, 2018
+
+**Today's Progress**: Created an Image Gallery Blog using learnings from HTML and CSS grids.
+
+**Thoughts**: Happy about my consistency. Enjoying getting comfortable with CSS selectors and grids.
+
+**Link to work**: (will upload from Local Text editor)
+
