@@ -48,3 +48,6 @@ Working through CSS section of Web Developer Bootcamp from Colt Steele
 
 ## R1D15
 Working through Popular CSS Selectors, coded template for Tic Tac Toe game using box model.
+
+## R1D16
+Created an Image Gallery Blog using learnings from HTML and CSS grids.
