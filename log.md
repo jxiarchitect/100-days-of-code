@@ -136,3 +136,9 @@
 
 **Link to work**: (will upload from Local Text editor)
 
+## Day 17: January, 22, 2018
+
+**Today's Progress**: No new projects, tested some CSS layouts for my Personal Webpage Portfolio. Going through Web Dev Bootcamp course at UDemy.
+
+**Link to work**: None to post.
+
