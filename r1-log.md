@@ -54,3 +54,6 @@ Created an Image Gallery Blog using learnings from HTML and CSS grids.
 
 ## R1D17
 No new projects, tested some CSS layouts for my Personal Webpage Portfolio. Going through Web Dev Bootcamp course at UDemy.
+
+## R1D18
+Working through Bootstrap section of Web Dev Bootcamp Course. Installed Bootstrap locally for more grid/button practice.
