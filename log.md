@@ -142,3 +142,9 @@
 
 **Link to work**: None to post.
 
+## Day 18: January 23, 2018
+
+**Today's Progress**: Working through Bootstrap section of Web Dev Bootcamp Course. Installed Bootstrap locally for more grid/button practice.
+
+**Link to work**: None to post.
+
