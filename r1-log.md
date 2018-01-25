@@ -51,3 +51,6 @@ Working through Popular CSS Selectors, coded template for Tic Tac Toe game using
 
 ## R1D16
 Created an Image Gallery Blog using learnings from HTML and CSS grids.
+
+## R1D17
+No new projects, tested some CSS layouts for my Personal Webpage Portfolio. Going through Web Dev Bootcamp course at UDemy.
