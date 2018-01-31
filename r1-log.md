@@ -57,3 +57,7 @@ No new projects, tested some CSS layouts for my Personal Webpage Portfolio. Goin
 
 ## R1D18
 Working through Bootstrap section of Web Dev Bootcamp Course. Installed Bootstrap locally for more grid/button practice.
+
+
+## R1D25 
+Working through JavaScript Algorithms @FreeCodeCamp. Completed the BootStrap section of WebDev Bootcamp including the making of a responsive image gallery :) 
