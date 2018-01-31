@@ -148,3 +148,8 @@
 
 **Link to work**: None to post.
 
+## Day 25: January 30, 2018
+
+**Today's Progress**: Working through JavaScript Algorithms @FreeCodeCamp. Completed the BootStrap section of WebDev Bootcamp including the making of a responsive image gallery :)
+
+**Link to work**: Need to transfer files from my local drive.
