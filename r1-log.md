@@ -61,3 +61,7 @@ Working through Bootstrap section of Web Dev Bootcamp Course. Installed Bootstra
 
 ## R1D25 
 Working through JavaScript Algorithms @FreeCodeCamp. Completed the BootStrap section of WebDev Bootcamp including the making of a responsive image gallery :) 
+
+## R1D30
+
+Working through JavaScript algorithms at FreeCodeCamp - reminding myself to stay consistent in effort and approach. Progess and results (moving quickly through the program) will be a by-product of my commitment! 
