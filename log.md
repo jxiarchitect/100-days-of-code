@@ -153,3 +153,11 @@
 **Today's Progress**: Working through JavaScript Algorithms @FreeCodeCamp. Completed the BootStrap section of WebDev Bootcamp including the making of a responsive image gallery :)
 
 **Link to work**: Need to transfer files from my local drive.
+
+## Day 30: February 4, 2018
+
+**Today's Progress**: Working through JavaScript algorithms at FreeCodeCamp
+
+**Thoughts**: My pace working through the practices seems to be a lot slower now as I am trying to digest more of the logic and functionality of the JavaScript methods. Adjusting to this new pace is a bit frustrating but I am now shifting my focus to being consistent in my approach and practice rather than trying to make huge leaps and bounds through the curriculum. Reminding myself that this is a part of the journey.
+
+**Link to work**: No work to link as I am working on Algorithm practice questions at FreeCodeCamp. 
