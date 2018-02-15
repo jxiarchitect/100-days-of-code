@@ -65,3 +65,7 @@ Working through JavaScript Algorithms @FreeCodeCamp. Completed the BootStrap sec
 ## R1D30
 
 Working through JavaScript algorithms at FreeCodeCamp - reminding myself to stay consistent in effort and approach. Progess and results (moving quickly through the program) will be a by-product of my commitment! 
+
+## R1D40
+
+Today I completed the JSON APIs and Ajax Section of Free Code Camp Front End Development Certification :) 
