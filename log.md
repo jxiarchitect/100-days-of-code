@@ -161,3 +161,11 @@
 **Thoughts**: My pace working through the practices seems to be a lot slower now as I am trying to digest more of the logic and functionality of the JavaScript methods. Adjusting to this new pace is a bit frustrating but I am now shifting my focus to being consistent in my approach and practice rather than trying to make huge leaps and bounds through the curriculum. Reminding myself that this is a part of the journey.
 
 **Link to work**: No work to link as I am working on Algorithm practice questions at FreeCodeCamp. 
+
+## Day 40: February 14, 2018
+
+**Today's Progress**: Today I completed the JSON APIs and Ajax Section of Free Code Camp Front End Development Certification :) 
+
+**Thoughts**: Would like to be more consistent in logging my progress. Realized I was letting my frustrating with my seemingly slow progress interfere with the appreciation of consistency. I have more respect for developers and programmers as I realize that this is journey is a marathon and not a sprint. Slow progress is better than no progress. Looking forward to working on my first JavaScript related project - Random Quote Machine ! 
+
+**Link to Work**: https://www.freecodecamp.org/challenges/get-geolocation-data
