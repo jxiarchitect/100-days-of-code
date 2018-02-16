@@ -169,3 +169,11 @@
 **Thoughts**: Would like to be more consistent in logging my progress. Realized I was letting my frustrating with my seemingly slow progress interfere with the appreciation of consistency. I have more respect for developers and programmers as I realize that this is journey is a marathon and not a sprint. Slow progress is better than no progress. Looking forward to working on my first JavaScript related project - Random Quote Machine ! 
 
 **Link to Work**: https://www.freecodecamp.org/challenges/get-geolocation-data
+
+## Day 41: February 15, 2018
+
+**Today's Progress**: Some DOM Style & Text Manipulation with Udemy WebDev Bootcamp Course
+
+**Thoughts**: Progressing nicely through the WebDev Bootcamp course :)
+
+**Link to Work**: No projects to post. 
