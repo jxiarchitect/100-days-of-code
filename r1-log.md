@@ -69,3 +69,7 @@ Working through JavaScript algorithms at FreeCodeCamp - reminding myself to stay
 ## R1D40
 
 Today I completed the JSON APIs and Ajax Section of Free Code Camp Front End Development Certification :) 
+
+## R1D41
+
+Some DOM Style & Text Manipulation with Udemy WebDev Bootcamp Course.
